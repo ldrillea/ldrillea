@@ -26,7 +26,7 @@ text
 
 
 <h5> More Ideas for Website: </h5>
-<p> Exclusive interviews with painters, rapper, comedians, NBA players, college athetes, clothing designers, youtubers, photographers, filmmakers around the Bay Area. This will be a hub for brand development, literacy, and urban culture. 
+<p> Exclusive interviews with painters, rapper, comedians, NBA players, college athletes, clothing designers, YouTubers, photographers, filmmakers around the Bay Area. This will be a hub for brand development, literacy, and urban culture. 
 
 </body>
 </html>
