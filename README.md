@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ICS 10</title>
+<title>Trenchingtonpost</title>
 </head>
 <style>
 body  {background-color: black;}
