@@ -10,6 +10,8 @@ body  {background-color: black;}
 <body text = white
 text  
 
+<h1>dr.craftementary</h1>
+
 <h2>From Oakland and Beyond </h2>
 <p> Welcome to the Land's online newspaper. Here's a space where artists, business owners, and intellects can convene peacefully in respect of the work they have published. Each contributing memeber of the culture is celebrated, represented, and rememebered for their effort and presence that has built the door and held it open for future generations. 
 
