@@ -13,7 +13,7 @@ text
 <h1>dr.craftementary</h1>
 
 <h2>From Oakland and Beyond </h2>
-<p> Welcome to the Land's online newspaper. Here's a space where artists, business owners, and intellects can convene peacefully in respect of the work they have published. Each contributing memeber of the culture is celebrated, represented, and rememebered for their effort and presence that has built the door and held it open for future generations. 
+<p> Welcome to the Land's online newspaper. Here's a space where artists, business owners, and intellects can convene peacefully in respect of the work they have published. Each contributing member of the culture is celebrated, represented, and remembered for their effort and presence that has built the door and held it open for future generations. 
 
 
 <p> This website will visually function as an audio book newspaper, a collection of interviews, profiles, portraiture, and voice over recordings from common folk, celebrities, and scholars. The faces, stories, and voices of the local scene will be documented and posted for for historical purposes. The achievement of generational health and wealth will be televised for stereotypes and wage gaps to be erased. 
